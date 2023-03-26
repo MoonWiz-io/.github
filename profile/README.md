@@ -1,5 +1,5 @@
 
-# 🧙‍♂️ Moonwiz 🌙
+# Moonwiz 🌙
 ![](https://i.imgur.com/gzIuBUw.png)
 ### Crypto Trading Ideas From Across The Web
  - [MoonWiz Main](https://moonwiz.io)
@@ -25,7 +25,6 @@ With MoonWiz, you’ll find all the information you need in one place, with addi
 
 Each user gets a ranking based on his posts & signals performance, and that in order to help other users to understand who they should trade with, and also for the user himself.
 
-
 MoonWiz’s team isn’t just a team of developers and graphic designers, MoonWiz is built for traders, by traders, so we as a team know exactly what you need to become a better trader.
 
 And that applies to all of the features that we have on our platform, starts from the posting system that made for posting charts, ideas & Funny GIFs as traders love to do, to our $CashTag system that bolding the currency from the other content in the post, our AI ranking system that rate each user based on his posts & signals performance, and that in order to help other users to understand who they should trade with. 
@@ -45,10 +44,6 @@ That’s why we are planning to have a reward system, based on a crypto token th
 And because of all of that, we came up with the idea of Moonwiz.
 
 ## Features
-### Decentralized social media platform
-We know that many traders prefer to stay anonymous and set apart their digital identity from their real identity.
-More than that, a Decentralized platform will open a door for our next features that will come in the near future and will be mentioned later on this page.
-
 ### MoonScore™
 The MoonScore™ is one of the most effective & useful features that a trader on social media can dream about.
 As we already mentioned, The community takes a big part of the reasons why a coin is going up or down, but how can you understand what the community thinks if there are millions of posts every day?
@@ -75,12 +70,6 @@ Private Rooms Channels- Inside any community, there are small groups that are bu
 Most updated news & information - As traders, we need to be updated with the latest news about the market, because any positive or negative announcement, can skyrocket or make a big drop on a coin in seconds.
 That’s why we provide our users with real-time updates about the most recent information and the latest news & announcements in the market.
 Advanced Notification system - As part of our commitment to provide the users the latest updates, and keep them with real-time alerts, we developed an Advanced Notification System that helps the users to know when something is happening without them being worried about missing an important news.
-
-### Mobile Application
-Today’s traders are not like in the past.
-People sitting in wall street offices infront of 4 screens full of charts is not how traders today live their life.
-Today, you can trade from wherever you want, with your mobile device.
-That is why we created a mobile app for MoonWiz that fits all kinds of devices (IOS & Android), so people can stay online & update no matter where they are.
 
 Open & Supported community - MoonWiz is a place where anyone can post & discuss anything that is on his mind. 
 Being part of the MoonWiz community will help our users to have more confidence before entering a trade, Get all the information that they need to make a calculated decision, and verify their information with multiple sources of knowledge.
